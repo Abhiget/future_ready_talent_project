@@ -5,11 +5,11 @@ Industry : Lifestyle
 
 Project Title : PassionKraft
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : Now a days many people still don't know or still confused about what to wear when there is any function, party, festival and wedding. There comes my website PassionKraft which helps people to style according to the latest fashion or according to the specific theme. 
 
 
 
-Project Description :
+Project Description : I have created a fashion suggestion or fashion related query website named PassionKraft using html, css, javascript. It helps the people to explore the world of fashion and trending clothing wears for different occasions. There are many professionals which will help people to understand the about the fashion and help them to select dresses for the occasions. There are four pages in my website which are home, about, Services and Contact us. Home page is the landing page of the website which consists the logo and short description of the website. About page contains the brief details about the contributors of the website and the ambition of the website. Services page contains the details about the services we provide to the customer. Finally, the Contact Us page helps customer to share their experience and issues or product order.
 
 
 
